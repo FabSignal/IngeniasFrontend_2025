@@ -3,7 +3,10 @@ console.log("Con For");
 function fizzBuzzFor(max) {
 
     for (let i=0; i < max; i++){
-        if ((i % 3 == 0) !== (i % 5 == 0)) {
+        const divPor3 = (i % 3 == 0);
+        const divPor5 = (i % 5 == 0);
+        
+        if ((divPor3 && !divPor5) || (!divPor3 && divPor5)) {
             console.log(i);
         }
     }
@@ -16,7 +19,10 @@ console.log("Con While");
 function fizzBuzzWhile(max) {
     let i = 0;
     while (i < max) {
-        if ((i % 3 == 0) !== (i % 5 == 0)) {
+        const divPor3 = (i % 3 == 0);
+        const divPor5 = (i % 5 == 0);
+        
+        if ((divPor3 && !divPor5) || (!divPor3 && divPor5)) {
             console.log(i);
         }
     i++;
