@@ -13,7 +13,7 @@
 - [ ] Ejercicio 4 - FizzBuzz con `for` y `while`
 
 #### 📋 Control previo al entregar:
-- [ ] El código está dentro de la carpeta correspondiente y **con mi nombre y apellido**
+- [ ] El código está dentro de la carpeta correspondiente(Modulo2-Clase21) y **con mi nombre y apellido**
 - [ ] Probé que el código funciona correctamente en mi entorno local
 - [ ] Agregué comentarios donde puede no ser claro el razonamiento
 - [ ] El código no genera errores ni advertencias
@@ -21,3 +21,6 @@
 
 #### 💬 Comentarios adicionales (opcional):
 _Es posible contar alguna dificultad que tuviste, cómo lo resolviste o algo que quieras compartir._
+
+>📁 Formato de entrega sugerido:
+Cada ejercicio debe ir en un archivo separado dentro de la carpeta con tu nombre (por ejemplo: script1.js, script2.js, etc.).
