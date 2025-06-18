@@ -54,7 +54,7 @@ Se declara la variable resultados, un array vacío donde se guardarán los nros 
 Comienza el bucle while, que se repetirá mientras se cumpla la condición i < max. 
 La definición de las constantes 'divisiblePor3' y 'divisiblePor5', y el bloque if es igual al caso a).
 Si se cumple la condición (divisible por 3 o por 5, pero no por ambos a la vez), se ejecuta el bloque if y se agrega i al array resultados .
-Finalmente, Finalmente, se incrementa el contador i en 1 para continuar con la siguiente iteración del bucle.
+Finalmente, se incrementa el contador i en 1 para continuar con la siguiente iteración del bucle.
  */
 
 function fizzBuzzWhile(max) {
