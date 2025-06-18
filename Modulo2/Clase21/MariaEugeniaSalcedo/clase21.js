@@ -1,8 +1,3 @@
-const importesPorMes = [400, 500, 600, 300, 1500, 1200, 700, -200, 1100]
-const resultado = sumaImportes(importesPorMes)
-console.log(resultado)
-
-
 function sumaImportes (importes){
     let suma = 0;
     
@@ -15,3 +10,6 @@ function sumaImportes (importes){
     return suma;
 }
 
+const importesPorMes = [400, 500, 600, 300, 1500, 1200, 700, -200, 1100]
+const resultado = sumaImportes(importesPorMes)
+console.log(resultado)
