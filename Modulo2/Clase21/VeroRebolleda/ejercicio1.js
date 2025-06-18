@@ -19,7 +19,6 @@ function sumaGanancias(importes) {
   }
   return suma;
 }
-sumaGanancias(importes); // Llamamos a la función y mostramos el resultado
 console.log(
   "El resultado de la suma de los meses de ganancia es de: $",
   sumaGanancias(importes)

@@ -1,4 +1,4 @@
- /*✅ Ejercicio 2
+/*✅ Ejercicio 2
 Una cadena de cines nueva quiere desarrollar su página web, y nos presentó la siguiente situación:
 
 Cada vez que queremos ir al cine, además de ver si nuestra película está en cartelera,  
@@ -42,12 +42,9 @@ function verificarAsiento(asientosDisponibles, asientoSolicitado) {
   } else {
     let asientosRestantes = asientosDisponibles.length;
     console.log(
-      `Lo sentimos, el asiento número ${asientoSolicitado} está ocupado, pero aún quedan ${asientosRestantes} asientos disponibles`
+      `Lo sentimos, el asiento número ${asientoSolicitado} no está disponible, pero aún quedan ${asientosRestantes} asientos disponibles para elegir.`
     );
     return;
   }
 }
 verificarAsiento(asientosDisponibles, asientoSolicitado); // Llamamos a la función para verificar el asiento solicitado
-
-
-
