@@ -1,4 +1,4 @@
-# 📄 Tercera Pre-entrega – Versión con Array en JavaScript 
+# 📄 Tercera Pre-entrega –  JavaScript y Storage
 
 > [!IMPORTANT]
 > Grupos de mínimo dos personas y máximo tres. **Obligatorio**
