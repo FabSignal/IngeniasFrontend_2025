@@ -9,7 +9,7 @@
 
 ## 🗓️ Fecha de Entrega
 
-Lunes 30/06/2025 a las 18hs, se da dos fines de semanas para que se puedan organizar.
+Lunes 30/06/2025 a las 18hs, se da dos fines de semanas para que se puedan organizar y 4 clases para que puedan ver dudas.
 
 ## 🎯 Objetivo General
 
@@ -18,7 +18,7 @@ Crear una aplicación web con HTML, CSS y JavaScript que:
 2. Permita agregar nuevos usuarios desde un formulario,
 3. Guarde información del usuario en el navegador (`localStorage` o `sessionStorage`),
 4. Muestre toda la información en pantalla.
-5. Entregar al repositorio en el excel con el:
+5. Entregar al repositorio en el [excel](https://docs.google.com/spreadsheets/d/15jD9wPI91baF5VmKQDeLjBvTDDqz7YsLO6wCJQ4pBro/edit?usp=sharing) con el:
      - Nombre y apellido de cada integrante del equipo
      - Correo de cada integrante del equipo
 
