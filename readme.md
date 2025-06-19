@@ -40,11 +40,8 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 - **Clase 10** : 1era pre-entrega ✅
 - **Clase 15** :ENTREGA FINAL HTML Y CSS ✅
 - **Clase 18** : 2da pre- entrega ✅
-- **Clase 21** : 3era pre-entrega **Esperamos**
-- **Clase 22** : **Presentación de las alumnas**
-  > 🚨 **IMPORTANTE** [Ejercicios para realizar](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md)
-  > 
-  > 🚨Si elegiste **PR** antes del martes 17/06/2025 18h lo tenes que hacer🚨
+- **Clase 21** : [3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md) **Enviada a las alumnas** - A confirmar Fecha de Entrega.
+- **Clase 22** : ✅ [Ejercicios realizados](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md)
 - **Clase 27** : 4ta pre entrega
 - **Clase 32** : Ultima clase presentación de proyectos
 
@@ -96,7 +93,7 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 11/06/2025  | Miércoles |Clase 21  | Aplicación Práctica Integradora, puesta en común en la clase siguiente, miércoles 18/06/2026| [Presentamos clase 21](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md) en 20 min, luego vamos directo a la **clase 22** por 1:30|
 | 16/06/2025  | ~~Lunes~~ | -        | Feriado                                                                                   | A ponerse a estudiar 🚨                                             |
 | 18/06/2025  | Miércoles |Clase 22  | Objetos literal| Las alumnas presentan soluciones de la [clase 21](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md) en 1h, luego vamos directo a la **clase 23**    |
-| 23/06/2025  | Lunes     |Clase 23   | JSON y storage                                                                            |                                                 |
+| 23/06/2025  | Lunes     |Clase 23   | JSON y storage                                                                            |   Explicada [3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md)                                              |
 | 25/06/2025  | Miércoles |Clase 24   | DOM I                                                                                     |                                                 |
 | 30/06/2025  | Lunes     |Clase 25   | DOM II                                                                                    |                                                 |
 | 02/07/2025  | Miércoles |Clase 26   | Eventos                                                                                   |                                                 |
@@ -120,7 +117,7 @@ Podés ingresar desde este link:
 
 ## 🤝 Comunidad
 
-No estás sola en este camino. Sumate al grupo de WhatsApp donde compartimos novedades, consultas y buena vibra ✨
+No estás sola en este camino. Sumate al Grupo Interno donde compartimos novedades y consultas✨
 
 ---
 Nos vamos a cruzar muchas veces a lo largo del curso, pero este GitHub va a ser uno de los espacios más importante para tu base de operaciones.
