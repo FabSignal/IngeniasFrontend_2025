@@ -25,10 +25,14 @@ function reportePasajeros(estacionesRecorridas) {
             estacion: nombreEstacion,
             pasajeros: pasajeros
         });
+
+         // imprimo por cada estación  
+        console.log(`Después de estación ${nombreEstacion} hay ${pasajeros} pasajeros.`);
     }
 
     return reporte;
 }
 
 let numEstacion = 10;  // o puede ser ingresado por teclado
-console.log(reportePasajeros(numEstacion));
+reportePasajeros(numEstacion); // le paso por parametro el valor 10
+
