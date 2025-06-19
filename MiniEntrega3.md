@@ -1,4 +1,15 @@
-# 📄 Tercera Pre-entrega – Versión con Array en JavaScript
+# 📄 Tercera Pre-entrega – Versión con Array en JavaScript 
+
+> [!IMPORTANT]
+> Grupos de mínimo dos personas y máximo tres. **Obligatorio**
+> 
+> Los grupos pueden ser los mismos que ya vienen trabajando, o pueden reorganizarse; acuerdenlo en el grupo.
+>
+> Este mini TP no está relacionado con el trabajo anterior. Es un proyecto **nuevo, desde cero**. Aprovechen para trabajar con otras personas.
+
+## 🗓️ Fecha de Entrega
+
+Lunes 30/06/2025 a las 18hs, se da dos fines de semanas para que se puedan organizar.
 
 ## 🎯 Objetivo General
 
@@ -7,6 +18,9 @@ Crear una aplicación web con HTML, CSS y JavaScript que:
 2. Permita agregar nuevos usuarios desde un formulario,
 3. Guarde información del usuario en el navegador (`localStorage` o `sessionStorage`),
 4. Muestre toda la información en pantalla.
+5. Entregar al repositorio en el excel con el:
+     - Nombre y apellido de cada integrante del equipo
+     - Correo de cada integrante del equipo
 
 ---
 
