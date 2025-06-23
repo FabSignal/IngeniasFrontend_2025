@@ -9,7 +9,7 @@
 
 ## 🗓️ Fecha de Entrega
 
-Lunes 30/06/2025 a las 18hs, se da dos fines de semanas para que se puedan organizar y 4 clases para que puedan ver dudas.
+Lunes 30/06/2025 a las 18hs, se da dos fines de semanas para que se puedan organizar y 2 clases para que puedan ver dudas.
 
 ## 🎯 Objetivo General
 
