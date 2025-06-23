@@ -42,9 +42,9 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 - **Clase 18** : 2da pre- entrega ✅
 - **Clase 22** : ✅ [Ejercicios realizados](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md)
 - ⚠️**Clase 25** : [3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md) - Fecha de Entrega 30/06/2025. ⚠️
-- **Clase 27** : 4ta pre entrega
-- **Clase 32** : Ultima clase presentación de proyectos
-
+- **Clase 27** : [4ta pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega4.md)
+- **Clase 31 y 32** : [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)
+- 
 #### 🗓️ Calendario Módulo 1: HTML y CSS (12 clases)
 
 **Inicio:** Lunes 31/03/2025  
@@ -102,8 +102,8 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 14/07/2025  | Lunes             |Clase 28   | API                                                                                       |                                                 |
 | 16/07/2025  | Miércoles         |Clase 29   | Pedidos asincrónicos                                                                      |                                                 |
 | 21/07/2025  | Lunes             |Clase 30   | Aplicacion Práctica(API I)                                                               |                                                 |
-| 23/07/2025  | Miércoles         |Clase 31   | Aplicacion Práctica(API II)                                                               | Presentacion Final Alumnas                                               |
-| 28/07/2025  | Lunes             |Clase 32   | Presentación proyectos (Entrega Final JS)                                                 | Presentacion Final Alumnas                                                  |
+| 23/07/2025  | Miércoles         |Clase 31   | Aplicacion Práctica(API II)                                                               | [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)                                               |
+| 28/07/2025  | Lunes             |Clase 32   | Presentación proyectos (Entrega Final JS)                                                 |  [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)                                                 |
 
 
 ## 🔗 Enlace al Campus
