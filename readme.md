@@ -41,8 +41,8 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 - **Clase 15** :ENTREGA FINAL HTML Y CSS ✅
 - **Clase 18** : 2da pre- entrega ✅
 - **Clase 22** : ✅ [Ejercicios realizados](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md)
-- ⚠️**Clase 25** : [3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md) - Fecha de Entrega 30/06/2025. ⚠️
-- **Clase 27** : [4ta pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega4.md)
+- **Clase 25** : ✅[3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md) - Fecha de Entrega 30/06/2025.
+- **Clase 27** : ⚠️[4ta pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega4.md)
 - **Clase 31 y 32** : [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)
 - 
 #### 🗓️ Calendario Módulo 1: HTML y CSS (12 clases)
@@ -86,8 +86,8 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 19/05/2025  | Lunes     |Clase 14  | JS: Sintaxis y tipos de datos                                                            |                                                             |
 | 21/05/2025  | Miércoles |Clase 15  | Operadores en JS                                                                         |                                                             |
 | 26/05/2025  | Lunes     |Clase 16  | Condicionales                                                                            |                                                             |
-| 28/05/2025  | Miércoles |Clase 17  | Funciones                                                                                |    Entrega [Pre - Entrega Final HTML - CSS](https://campus.educalabs.org/pluginfile.php/417755/mod_resource/content/1/FRONT%20Clase%2012-Servidores%20y%20proyecto%20final.pptx.pdf)                                                      |
-| 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                               |    Pre -Entrega Java Script                                  |
+| 28/05/2025  | Miércoles |Clase 17  | Funciones                                                                                |    🟩Entrega [Pre - Entrega Final HTML - CSS](https://campus.educalabs.org/pluginfile.php/417755/mod_resource/content/1/FRONT%20Clase%2012-Servidores%20y%20proyecto%20final.pptx.pdf)                                                      |
+| 02/06/2025  | Lunes     |Clase 18  | Node y sistemas de módulos                                                               |   🟩 Pre -Entrega Java Script                                  |
 | 04/06/2025  | Miércoles |Clase 19  | Arrays, strings y métodos                                                                |                                                              |
 | 09/06/2025  | Lunes     |Clase 20  | Ciclos                                                                                   |                                                              |
 | 11/06/2025  | Miércoles |Clase 21  | Aplicación Práctica Integradora, puesta en común en la clase siguiente, miércoles 18/06/2026| [Presentamos clase 21](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md) en 20 min, luego vamos directo a la **clase 22** por 1:30|
@@ -95,15 +95,15 @@ El cronograma con fechas de clases, entregas y temas se irá actualizando semana
 | 18/06/2025  | Miércoles |Clase 22  | Objetos literal| Las alumnas presentan soluciones de la [clase 21](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/miniEntregaClase21.md) en 1h, luego vamos directo a la **clase 23**    |
 | 23/06/2025  | Lunes     |Clase 23   | JSON y storage                                                                            |          -Se ve DOM I-                                        |
 | 25/06/2025  | Miércoles |Clase 24   | DOM I                                                                                     |    -Se ve  DOM II -                                               |
-| 30/06/2025  | Lunes     |Clase 25   | DOM II                                                                                    |     Se recibe la 🚨 [3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md) y en clase vemos Eventos                                               |
-| 02/07/2025  | Miércoles |Clase 26   | Eventos                                                                                   |                                                 |
-| 07/07/2025  | Lunes     |Clase 27   | Aplicacion Práctica(Pre-Entrega)                                                          |  Entrega de la [4ta pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega4.md)                                               |
-| 09/07/2025  | ~~Miércoles~~ | -     | Feriado                                                                                   | Sin clase                                              |
-| 14/07/2025  | Lunes             |Clase 28   | API                                                                                       |                                                 |
-| 16/07/2025  | Miércoles         |Clase 29   | Pedidos asincrónicos                                                                      |                                                 |
-| 21/07/2025  | Lunes             |Clase 30   | Aplicacion Práctica(API I)                                                               |                                                 |
-| 23/07/2025  | Miércoles         |Clase 31   | Aplicacion Práctica(API II)                                                               | [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)                                               |
-| 28/07/2025  | Lunes             |Clase 32   | Presentación proyectos (Entrega Final JS)                                                 |  [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)                                                 |
+| 30/06/2025  | Lunes     |Clase 25   | DOM II                                                                                    |    🟩 Se recibe la  [3era pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega3.md) y en clase vemos Eventos                                               |
+| 02/07/2025  | Miércoles |Clase 26   | Eventos                                                                                   | Vemos aplic práctica y comenzamos con la Api    |
+| 07/07/2025  | Lunes     |Clase 27   | Aplicacion Práctica(Pre-Entrega)                                                          | 🚨 Entrega de la [4ta pre-entrega](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/MiniEntrega4.md)      🚨                                         |
+| 09/07/2025  | ~~Miércoles~~ | -     | Feriado                                                                                   | Sin clase                                       |
+| 14/07/2025  | Lunes             |Clase 28   | API                                                                               |                                                 |
+| 16/07/2025  | Miércoles         |Clase 29   | Pedidos asincrónicos                                                              |                                                 |
+| 21/07/2025  | Lunes             |Clase 30   | Aplicacion Práctica(API I)                                                        |                                                 |
+| 23/07/2025  | Miércoles         |Clase 31   | Aplicacion Práctica(API II)                                                       | [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)                                              |
+| 28/07/2025  | Lunes             |Clase 32   | Presentación proyectos (Entrega Final JS)                                         |  [Presentacion Final Alumnas](https://github.com/mariaelisaaraya/IngeniasFrontend_2025/blob/main/EntregaFinal.md)                                              |
 
 
 ## 🔗 Enlace al Campus
