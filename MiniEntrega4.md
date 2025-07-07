@@ -15,6 +15,8 @@ Ahora, en esta **cuarta entrega**, vas a **mejorar y ampliar** ese proyecto, tam
 ## 🗓️ Fecha de Entrega
 Lunes 14/07/2025 a las 18hs.
 
+## [Excel](https://docs.google.com/spreadsheets/d/1vxz52tYdVCRJbg4xW1ek7j8KtUjNJ2B7DLEcYHe_1dc/edit?usp=sharing) de Equipos
+
 ---
 
 ## 🎯 Objetivo General
@@ -141,7 +143,7 @@ Hacé un flujo completo:
 
 ## 📅 Entrega
 
-- **Clase 27** (Lunes 07/07/2025).
+- **Clase 28** (Lunes 14/07/2025).
 - Entregar el link del GitHub que seguían usando en la 3era pre entrega.
 - Incluir en un README los nombres y correos del equipo.
 
