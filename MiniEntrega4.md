@@ -13,7 +13,7 @@ Ahora, en esta **cuarta entrega**, vas a **mejorar y ampliar** ese proyecto, tam
 ---
 
 ## 🗓️ Fecha de Entrega
-Lunes 07/07/2025 a las 18hs.
+Lunes 14/07/2025 a las 18hs.
 
 ---
 
