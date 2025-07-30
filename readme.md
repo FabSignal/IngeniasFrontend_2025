@@ -3,7 +3,7 @@
 ![Curso](https://img.shields.io/badge/Frontend-2025-blue)
 ![Modalidad](https://img.shields.io/badge/Modalidad-Online-lightgrey)
 ![CopilotaDev](https://img.shields.io/badge/CopilotaDev-Lisa-purple)
-![Estado](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-brightgreen)
 
 ---
 
