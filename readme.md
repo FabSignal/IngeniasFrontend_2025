@@ -6,8 +6,108 @@
 ![Estado](https://img.shields.io/badge/Estado-Finalizado-brightgreen)
 
 ---
+## 👩‍💻 Alumnas Aprobadas – Proyectos Finales 👩‍💻
 
-¡Bienvenidas! 👋  
+---
+
+#### 👥 Grupo 1: **Proyecto Inclusivo – Salud a Mano**  
+
+**Fabiana Fernández**  
+**Lucía Della Maddalena**  
+
+🔗 [Sitio Web](https://fabsignal.github.io/salud_a_mano/)  
+🔗 [GitHub](https://github.com/FabSignal/salud_a_mano)
+
+> Un sitio con enfoque en la salud accesible, bien estructurado, con navegación clara y una estética limpia. Se destaca la coherencia entre diseño y propósito social.
+
+<img width="1833" height="707" alt="image" src="https://github.com/user-attachments/assets/794fc00a-9922-42e4-8e67-708b8ea3d5d0" />
+
+---
+
+#### 👥 Grupo 2: **Proyecto – Plantitas y más**  
+
+**Karen Giannetto**  
+**Jessica Baeza**  
+
+🔗 [Sitio Web](https://karug1999.github.io/Proyecto_Grupo7/)  
+🔗 [GitHub](https://github.com/KaruG1999/Proyecto_Grupo7/tree/main)
+
+> Un sitio accesible y bien estructurado para un espacio de plantas con enfoque inclusivo. Se destaca el uso de paletas contrastadas, secciones claras y un excelente trabajo en equipo. La propuesta no solo es visualmente atractiva, sino que también comunica con claridad la misión del proyecto.
+
+<img width="1486" height="938" alt="image" src="https://github.com/user-attachments/assets/96edb328-49e3-4914-bd2e-ca2af1736774" />
+
+---
+
+#### 👥 Grupo 3: **Proyecto - Saturno Café**  
+
+**Zoe Quiroz**  
+**María Eugenia Salcedo**  
+
+🔗 [Sitio Web](https://m-eugenia-salcedo.github.io/Saturno-Cafe/contactos.html)  
+🔗 [GitHub](https://github.com/m-eugenia-salcedo/Saturno-Cafe)
+
+> Sitio encantador y funcional. Presentación limpia y con buen uso de assets visuales para reforzar identidad de marca.
+
+<img width="1886" height="884" alt="image" src="https://github.com/user-attachments/assets/db031aa2-c06d-4f84-a121-df6281e13028" />
+
+---
+
+#### 👥 Grupo 4: **Proyecto - La Pastelería Web**
+
+**Sol Gayarin**  
+**Julieta Heit**  
+
+🔗 [Sitio Web](https://github.com/SolGayarin/la-pasteleria-web)  
+🔗 [GitHub](https://solgayarin.github.io/la-pasteleria-web/)
+
+> 🎂 Una experiencia dulce y bien construida. Fluida, clara, y con una identidad visual consistente. Muy bien logrado el mobile first.
+
+<img width="1621" height="741" alt="image" src="https://github.com/user-attachments/assets/fec3f64a-224b-44dc-b40b-418c1b33eb82" />
+
+---
+
+
+#### 👥 Grupo 5: **Proyecto - La Pastelería Web**
+
+**Melanie Ortega**  
+**Rosario Albornoz**  
+**Tiziana Gomez** 
+
+🔗 [Sitio Web](https://github.com/SolGayarin/la-pasteleria-web)  
+🔗 [GitHub](https://github.com/melanie-rocio/Catfecito)
+
+>  🐱 La fusión perfecta entre ternura, funcionalidad y diseño. Menú dinámico y excelente organización del contenido.
+
+<img width="1233" height="799" alt="image" src="https://github.com/user-attachments/assets/29cb0a41-c37f-4156-a876-beba0696839b" />
+
+
+---
+
+#### 👥 Grupo 6: **Proyecto Emprendo – Plataforma para Emprendedoras**  
+
+**María Verónica Rebolleda**  
+**Julieta Lafuente**  
+**Sofía Sanchez Ponce**  
+
+🔗 [Sitio Web](https://emprendo-proyecto-final.vercel.app/)  
+🔗 [GitHub](https://github.com/MaVe1000/Emprendo-Proyecto-final)
+
+> Aplicación orientada a acompañar espacios de emprendedores. Buena estructura técnica, contenido bien distribuido y diseño profesional.
+
+<img width="1842" height="868" alt="image" src="https://github.com/user-attachments/assets/cfcf1d08-3e5a-4516-bf95-144025655165" />
+
+---
+
+
+
+
+
+
+
+
+
+
+¡Bienvenidas! 👋  - Esto era el comienzo - Ahora es el final 😉
 
 Desde este lado de la pantalla Lisa, ¡Un gusto!,  este repositorio está pensado para acompañarte durante toda la cursada del Curso de Frontend 2025.  
 
